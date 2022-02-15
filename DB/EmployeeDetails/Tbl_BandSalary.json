@@ -1,0 +1,15 @@
+{ 
+    "_id" : NumberInt(1), 
+    "Name" : "A", 
+    "Salary" : 12000.0
+}
+{ 
+    "_id" : NumberInt(2), 
+    "Name" : "B", 
+    "Salary" : 26000.0
+}
+{ 
+    "_id" : NumberInt(3), 
+    "Name" : "C", 
+    "Salary" : 40000.0
+}
