@@ -2,7 +2,7 @@
 require_once 'DbConnect.php';
 require_once 'EmployeeSalary.php';
 
-class BandSalaryA extends CalculateSalary
+class BandSalaryA 
 {
     public function CalculateSalary($data)
     {
